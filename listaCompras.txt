@@ -4,5 +4,13 @@ c.Lechuga
 d.Tomate
 e.Cebolla
 f.Queso Cremoso
+d.Queso Rallado
+e.5 Manzanas
+f.12 Naranjas
+
+
+
+
+
 
 
